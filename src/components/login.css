@@ -1,0 +1,13 @@
+.MuiBox-root {
+    padding: 0 !important;
+}
+.css-2s90m6-MuiAvatar-root{
+    width: 60px !important;
+    height: 60px !important;
+}
+TextField{
+    margin-bottom: 20px;
+}
+.btnstyle{
+    margin: 10px 0 !important;
+}

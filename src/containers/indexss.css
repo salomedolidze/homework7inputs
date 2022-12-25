@@ -1,0 +1,8 @@
+.MuiTabs-flexContainer {
+    justify-content: center;
+    
+}
+.MuiTabs-flexContainer button {
+    font-size: 20px;
+    margin: 10px;
+}
